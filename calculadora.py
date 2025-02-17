@@ -8,3 +8,5 @@ mul =num1*num2
 
 print("la suma de los dos numeros es ", sum)
 print("la resta de los dos numeros es ", res)
+print("la division de los dos numeros es ", div)
+print("la multiplicacion de los dos numeros es ", mul)
